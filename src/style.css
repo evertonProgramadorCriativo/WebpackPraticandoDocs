@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "MyFont";
+  src: url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap")
+      format("woff2"),
+    url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap")
+      format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: "Roboto", sans-serif;
+  background: url("./web.png");
+}
